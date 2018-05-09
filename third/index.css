@@ -1,0 +1,45 @@
+body html {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+
+.row {
+  height: 100px;
+  width: 100%;
+}
+
+.row-big {
+  height: 200px;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  justify-content: center;
+  padding: 75px;
+}
+
+.row-1 {
+  box-sizing: border-box;
+  background-color: grey;
+  padding: 25px;
+}
+
+.row-1-div {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
+
+.row-3 {
+  background-color: #4a90e2;
+}
+.row-4 {
+  background-color: aquamarine;
+}
+.row-5 {
+  background-color: green;
+}
+.row-6 {
+  background-color: yellow;
+}
